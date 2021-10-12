@@ -1,4 +1,4 @@
-#!/bin/bash
+Welcome to ${PREFIX}'s app. Replace this text with your own.#!/bin/bash
 # Script to deploy a very simple web application.
 # The web app has a customizable image and some text.
 
